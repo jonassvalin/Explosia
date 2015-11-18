@@ -1,0 +1,23 @@
+.content {
+    text-align: center;
+    width: 960px;
+    margin: 0 auto; }
+
+.btn-xlarge {
+    background-color: black;
+    color: blue;
+    padding: 18px 28px;
+    font-size: 60px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.jumbo-image {
+    width: 60%;
+}
+
+body {
+    padding-bottom: 70px;
+}
