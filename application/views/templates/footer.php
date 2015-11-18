@@ -3,7 +3,7 @@
 
             <div class="container">
                 <p class="navbar-text pull-left">Built by Jonas Svalin</p>
-                <a href="https://github.com/jonassvalin/CodeIgniteGame"
+                <a href="https://github.com/jonassvalin/Explosia"
                    class="navbar-btn btn-danger btn pull-right">GitHub</a>
             </div>
 
